@@ -1,0 +1,1 @@
+junk file is now again junk so it have to be putten inside a .gitignore
